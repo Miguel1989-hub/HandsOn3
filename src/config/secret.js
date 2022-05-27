@@ -1,3 +1,3 @@
 module.exports = {
-    key: 'Teste2015'
+    key: 'HandsOn3'
 }
